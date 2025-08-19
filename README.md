@@ -1,2 +1,2 @@
 # Python-Programming-Elective
-Elective Class from DLSU-D SHS (2022)
+Elective Class from STEM in DLSU-D SHS SY 2021-2022
